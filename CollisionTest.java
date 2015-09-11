@@ -1,4 +1,6 @@
-//email: weihsu@sbcglobal.net
+//Author hlimbo
+//Date 9-10-15
+//Language Java
 
 //GAME LEAK IN GAME.
 //potential fix for this could be to use stack based data structure
