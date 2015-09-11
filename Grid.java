@@ -1,3 +1,7 @@
+//Author hlimbo
+//Date 9-10-15
+//Language Java
+
 package collisiontest;
 
 import java.awt.Color;
