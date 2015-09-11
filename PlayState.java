@@ -1,3 +1,9 @@
+//Author hlimbo 
+//special thanks to ForeignGuyMike and his java game tutorials on youtube 
+//for the gamemanager,gamestate,gamepanel classes.
+//Date 9-10-15
+//Language Java
+
 package collisiontest;
 
 import static collisiontest.GamePanel.HEIGHT;
